@@ -1,0 +1,5 @@
+#include "CLumoMap"
+
+CLumoMap::CLumoMap(QWidget *parent)
+    : QWidget{parent}
+{}

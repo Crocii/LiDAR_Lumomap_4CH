@@ -1,0 +1,28 @@
+{
+    "Types": [
+        {
+            "channels": 1,
+            "distanceRate": 0.1,
+            "distanceUnit": "cm",
+            "fovStart": 180,
+            "frontAngle": 360,
+            "isCounterClockwise": false,
+            "name": "1ch / 360° (Standard)",
+            "resolution": 0.33,
+            "rotationOffset": 0,
+	    "mesuresPerScan" = 1091
+        },
+        {
+            "channels": 4,
+            "distanceRate": 0.1,
+            "distanceUnit": "cm",
+            "fovStart": 45,
+            "frontAngle": 90,
+            "isCounterClockwise": false,
+            "name": "4ch / 90° (Front-Facing)",
+            "resolution": 0.33,
+            "rotationOffset": 135,
+	    "mesuresPerScan" = 1091
+        }
+    ]
+}

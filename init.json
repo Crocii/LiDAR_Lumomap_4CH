@@ -1,0 +1,11 @@
+{
+    "commType": "UDP",
+    "fadeEffect": true,
+    "interval": "100",
+    "ip": "127.0.0.0",
+    "lastModelIndex": 1,
+    "offsetX": -68.62702212524982,
+    "offsetY": 344.39401464658874,
+    "port": "47777",
+    "zoomRate": 0.203908309340477
+}
